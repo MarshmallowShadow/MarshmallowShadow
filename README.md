@@ -8,10 +8,10 @@
 ### ✨ Personal Info and Contacts
 - Name: Choi Bo Seung (최보승)
 - Country: South Korea
-- Interests: Full Stack Web Development, Unity Game Development
+- Interests: Full Stack Web Development
 - Email: choiboseung@naver.com
 
-<!--
+
 ### 💻 Current Skills:
 - Frontend: 
 - Backend: 
@@ -19,4 +19,3 @@
 - Framework: 
 - Networking: 
 - Version Control:
--->

@@ -13,14 +13,9 @@
 
 
 ### 💻 Current Skills:
-- Frontend:
-
+- Frontend: <span></span>
 - Backend: 
-
 - Database: 
-
 - Framework: 
-
 - Networking: 
-
 - Version Control:

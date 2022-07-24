@@ -13,7 +13,7 @@
 
 
 ### 💻 Current Skills:
-- Frontend: <span><img src=""></span>
+- Frontend: <span><img src="http://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white"></span>
 - Backend: 
 - Database: 
 - Framework: 

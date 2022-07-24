@@ -1,7 +1,7 @@
 # Welcome to my GitHub!
 
- [![MarshmallowShadow's github stats](https://github-readme-stats.vercel.app/api?username=MarshmallowShadow&theme=material-palenight)](https://github.com/MarshmallowShadow/github-readme-stats)
- ![Top Langs](https://github-readme-stats-sand-six-91.vercel.app/api/top-langs/?username=MarshmallowShadow&layout=compact&theme=material-palenight)
+ <span>[![MarshmallowShadow's github stats](https://github-readme-stats.vercel.app/api?username=MarshmallowShadow&theme=material-palenight)](https://github.com/MarshmallowShadow/github-readme-stats)</span>
+ <span>![Top Langs](https://github-readme-stats-sand-six-91.vercel.app/api/top-langs/?username=MarshmallowShadow&layout=compact&theme=material-palenight)</span>
 
 ### ✨ Personal Info and Contacts
 - Name: Choi Bo Seung (최보승)

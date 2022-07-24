@@ -13,7 +13,7 @@
 
 
 ### 💻 Current Skills:
-- Frontend: <span></span>
+- Frontend: <span><img src=""></span>
 - Backend: 
 - Database: 
 - Framework: 

@@ -1,17 +1,22 @@
-### Hi there 👋
+# Welcome to my GitHub!
 
-- 🌱 I’m currently learning Java Web Development
-- 📫 How to reach me: choiboseung@naver.com
+ [![MarshmallowShadow's github stats](https://github-readme-stats.vercel.app/api?username=MarshmallowShadow&theme=dracula)](https://github.com/MarshmallowShadow/github-readme-stats)
+ ![Top Langs](https://github-readme-stats-sand-six-91.vercel.app/api/top-langs/?username=MarshmallowShadow&layout=compact&theme=dracula)
+
+
+
+### ✨ Personal Info and Contacts
+- Name: Choi Bo Seung (최보승)
+- Country: South Korea
+- Interests: Full Stack Web Development, Unity Game Development
+- Email: choiboseung@naver.com
 
 <!--
-**MarshmallowShadow/MarshmallowShadow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### 💻 Current Skills:
+- Frontend: 
+- Backend: 
+- Database: 
+- Framework: 
+- Networking: 
+- Version Control:
 -->

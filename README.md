@@ -2,7 +2,6 @@
 
 [![MarshmallowShadow's github stats](https://github-readme-stats.vercel.app/api?username=MarshmallowShadow&theme=material-palenight)](https://github.com/MarshmallowShadow/github-readme-stats)
 ![Top Langs](https://github-readme-stats-sand-six-91.vercel.app/api/top-langs/?username=MarshmallowShadow&layout=compact&theme=material-palenight)
-
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=marshadow)](https://solved.ac/marshadow)
 
 ### ✨ Personal Info and Contacts

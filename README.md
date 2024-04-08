@@ -7,7 +7,7 @@
 ### ✨ Personal Info and Contacts
 - Name: Choi Bo Seung (최보승)
 - Country: South Korea
-- Interests: Full Stack Web Development
+- Interests: Full Stack Web Development, Cybersecurity
 - Email: choiboseung@naver.com
 
 

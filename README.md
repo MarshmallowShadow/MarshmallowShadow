@@ -20,7 +20,7 @@
 <span><img src="https://img.shields.io/badge/Kotlin-purple?style=flat-square&logo=Kotlin&logoColor=white"></span>
 <span><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"></span>
 - Database: <span><img src="https://img.shields.io/badge/JDBC-FF3621?style=flat-square&logo=DataBricks&logoColor=white"></span>
-<span><img src="https://img.shields.io/badge/MySql-00758f?style=flat-square&logo=MySql&logoColor=white"></span>
+<span><img src="https://img.shields.io/badge/MySQL-00758f?style=flat-square&logo=MySql&logoColor=white"></span>
 - Framework: <span><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"></span>
 <span><img src="https://img.shields.io/badge/Django-orange?style=flat-square&logo=django"></span>
 - Server: <span><img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat-square&logo=ApacheTomcat&logoColor=black"></span>

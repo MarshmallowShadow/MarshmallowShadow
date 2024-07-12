@@ -20,7 +20,7 @@
 <span><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"></span>
 - Database: <span><img src="https://img.shields.io/badge/JDBC-FF3621?style=flat-square&logo=DataBricks&logoColor=white"></span>
 - Framework: <span><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"></span>
-<span><img src="https://img.shields.io/badge/django-orange?style=flat-square&logo=django"></span>
-- Server: <span><img src="https://img.shields.io/badge/tomcat-yellow?style=flat-square&logo=tomcat"></span>
+<span><img src="https://img.shields.io/badge/Django-orange?style=flat-square&logo=django"></span>
+- Server: <span><img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat-square&logo=ApacheTomcat&logoColor=black"></span>
 - Version Control: <span><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"></span>
 - DevOps: <span><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"></span>

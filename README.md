@@ -26,4 +26,4 @@
 <span><img src="https://img.shields.io/badge/React.js-61DBFD?style=flat-square&logo=react&logoColor=white"></span>
 - Server: <span><img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat-square&logo=ApacheTomcat&logoColor=black"></span>
 - Version Control: <span><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"></span>
-- Others: <span><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"></span>
+<span><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"></span>
